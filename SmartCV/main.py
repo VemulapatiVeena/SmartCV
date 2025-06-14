@@ -28,7 +28,7 @@ if "job_desc" not in st.session_state:
 
 
 # Title of the Project, change according to your style
-st.title("SmartCV 📝")
+st.title("SmartCV Evaluator📝")
 
 
 
@@ -62,7 +62,7 @@ def get_report(resume,job_desc):
     # Change the prompt to get the results in your style
     prompt = f"""
 # Context:
-You are an AI Resume Analyzer. You will be given a candidate's resume and the job description for a specific role.
+You are an SmartCV Evaluator. You will be given a candidate's resume and the job description for a specific role.
 
 # Instructions:
 - Carefully analyze the candidate’s resume based on the job description.

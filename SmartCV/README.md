@@ -1,4 +1,4 @@
-# SmartCV📝
+# SmartCV Evaluator📝
 SmartCV is a powerful AI-based resume screening tool that helps job seekers optimize their resumes based on the specific role they're applying for. By using advanced Natural Language Processing (NLP) models, SmartCV offers instant insights into how well your resume aligns with a job description, mimicking how recruiters and ATS systems evaluate candidates.
 
 
